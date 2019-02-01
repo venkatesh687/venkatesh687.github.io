@@ -28,6 +28,8 @@ html,body{
 	position:absolute;
 	bottom:-26%;
 	left: 42%;
+	width:50%;
+	height:50%;
 }
 .header-top{
 	text-align:center;
